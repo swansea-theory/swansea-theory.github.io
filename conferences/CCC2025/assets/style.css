@@ -5,7 +5,6 @@
 	#footer #map_canvas1sidebar div,
 	#footer #map_canvas1 div  {max-width: none;margin:0;padding:0;}/*CSS*4d33658e497aad29a83894936437501d*/.ContactForm.whiteShadowContainer > .form-group{display:none;}/*CSS*f493c01b64a8ca81e642ce25cddb0946*/.keditLayout_1 .kmapHolder{-webkit-filter: grayscale(100%);filter: grayscale(100%);}
 		.keditLayout_2 .kmapHolder{-webkit-filter: grayscale(100%) invert(100%);filter: grayscale(100%) invert(100%);}
-h1 {
+h5 {
   margin-top: 20px;
-  padding: 10px;
 }
