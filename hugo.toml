@@ -1,0 +1,4 @@
+baseURL = 'https://swansea-theory.github.io/'
+languageCode = 'en-us'
+title = 'Theoretical Computer Science -- Swansea University'
+theme = "mainroad"
