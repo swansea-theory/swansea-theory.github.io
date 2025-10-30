@@ -4,275 +4,886 @@
     <title>Theoretical Computer Science -- Swansea University</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Theoretical Computer Science -- Swansea University</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CCC 2025 in Swansea</title>
       <link>http://localhost:1313/posts/2025-09-08/</link>
       <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2025-09-08/</guid>
-      <description>&lt;p&gt;CCC 2025 was an exceptional gathering that perfectly balanced intellectual stimulation with natural beauty. The conference delivered a series of captivating talks that challenged and inspired attendees, while the excursion to Gower provided a refreshing counterpoint to the intense academic discussions.&lt;/p&gt;&#xA;&lt;p&gt;Big thanks to our invited speakers, contributors and other participants. See you in Kyoto next year!&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;CCC 2025 was an exceptional gathering that perfectly balanced intellectual stimulation with natural beauty. The conference delivered a series of captivating talks that challenged and inspired attendees, while the excursion to Gower provided a refreshing counterpoint to the intense academic discussions.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>CCC 2025 Comes to Swansea</title>
       <link>http://localhost:1313/posts/2025-06-20/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2025-06-20/</guid>
-      <description>&lt;p&gt;This September Swansea will be hosting&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;CCC 2025 Continuity, Computability, Constructivity - From Logic to Algorithms&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;This September Swansea will be hosting&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://swansea-theory.github.io/conferences/CCC2025&#34;&gt;CCC 2025 Continuity, Computability, Constructivity - From Logic to Algorithms&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;CCC 2025 Website Screenshot&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;http://localhost:1313/Screenshot%202025-06-20%20at%2015.10.04.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Giovanni Solda on Statistical Learning of Graphs</title>
       <link>http://localhost:1313/posts/2025-06-16/</link>
       <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2025-06-16/</guid>
-      <description>&lt;p&gt;This Thursday Giovanni Solda will give a talk on statistical learning of graphs as a part of our theory seminar series.&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Abstract: &lt;!-- raw HTML omitted --&gt;In the first part of this talk, I aim to give an introduction to two frameworks that describe when a family of functions can be considered to be learnable, namely PAC and online learnability, and discuss the relationship between them. In the second part, we will apply these frameworks to study the graphs such that the family of their isomorphic copies (with some constraints to be made precise) are learnable.&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;This Thursday Giovanni Solda will give a talk on statistical learning of graphs as a part of our theory seminar series.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In the first part of this talk, I aim to give an introduction to two frameworks that describe when a family of functions can be considered to be learnable, namely PAC and online learnability, and discuss the relationship between them. In the second part, we will apply these frameworks to study the graphs such that the family of their isomorphic copies (with some constraints to be made precise) are learnable.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Mukesh on Formally Verified Verifiable Group Generators </title>
       <link>http://localhost:1313/posts/2025-06-10/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2025-06-10/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;[1] &lt;a href=&#34;https://github.com/mukeshtiwari/Formally_Verified_Verifiable_Group_Generator/&#34;&gt;https://github.com/mukeshtiwari/Formally_Verified_Verifiable_Group_Generator/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;Mukesh will give a talk on Formally Verified Verifiable Group Generators as a part of our seminar series this Thursday.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Electronic voting (e-voting) requires a trusted setup to initiate an election process. This setup must be transparent to maintain the integrity of the election. A crucial aspect of this trusted setup involves generating group generators for a finite cyclic group, which are then used in cryptographic algorithms deployed within the voting system. Although computing group generators is generally not considered a difficult problem, election verifiability – where every step can be ascertained by independent third parties – excludes many of them, as they fail to provide verifiable evidence of correctness. In this work, we present a formally verified implementation of the group generator algorithm A.2.3 and the group generator verification algorithm A.2.4, specified in the National Institute of Standards and Technology (NIST), FIPS 186-4, in the Coq theorem prover. These two algorithms are highly sought-after methods to compute and verify group generator(s), respectively, because their outcomes can be established independently by third parties. Our formalisation captures all the requirements specified in algorithms A.2.3 and A.2.4 using the expressive type system of the Rocq theorem prover. We evaluate the group generator algorithm within the Rocq theorem prover itself to produce group generators, thereby only trusting the Rocq and its evaluation mechanism. In fact, our implementation is so efficient that it can compute the group generators used in real-world democratic elections in 30 min on a M3 laptop. The source code of this formalisation is available at GitHub [1].&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Proof and Computation Autumn School</title>
       <link>http://localhost:1313/posts/2025-06-03/</link>
       <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2025-06-03/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Aimed at PhD students and early-career researchers, the school explores themes across &lt;!-- raw HTML omitted --&gt;Foundations of Mathematics, Computer Science, and Philosophy&lt;!-- raw HTML omitted --&gt;, including:&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;http://localhost:1313/Proof&amp;amp;Coomputation.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;📢 The international autumn school &lt;strong&gt;&amp;ldquo;Proof and Computation&amp;rdquo;&lt;/strong&gt; will take place from &lt;strong&gt;14–20 September 2025&lt;/strong&gt; in Herrsching near Munich. As a part of it, Ulrich Berger will deliver a course on Program extraction in higher-order logic.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Manlio Valenti on the computational strength of a Hausdorff oracle</title>
       <link>http://localhost:1313/posts/2025-06-02/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2025-06-02/</guid>
-      <description>&lt;p&gt;This Thursday Manlio will give a talk &amp;ldquo;On the computational strength of a Hausdorff oracle&amp;rdquo; as a part of our seminar series.&lt;/p&gt;&#xA;&lt;p&gt;Abstract: Hausdorff dimension is one of the most important notions of dimension in geometric measure theory. It provides a means to describe the &amp;ldquo;size&amp;rdquo; of a set in terms of &amp;ldquo;how tightly&amp;rdquo; it can be covered with open sets. Recent work has highlighted an interesting connection between the Hausdorff dimension of a set and the computability-theoretical properties of its points. In particular, the effective (Hausdorff) dimension of a point can be defined in terms of its (in)compressibility, so that incompressible (aka random) points have maximum effective dimension. The Point-to-Set Principle states that the Hausdorff dimension of a set can be obtained as the supremum of the effective dimension of its points relative to a fixed parameter (also called oracle). This raises a natural question: how hard is it to compute such an oracle and what is its computational strength? In this talk, we will discuss some recent results in this direction. This is joint work with Ben Koch, Elvira Mayordomo, Arno Pauly, and Cecilia Pradic.&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;This Thursday Manlio will give a talk &amp;ldquo;On the computational strength of a Hausdorff oracle&amp;rdquo; as a part of our seminar series.&lt;/p&gt;
+&lt;p&gt;Abstract: Hausdorff dimension is one of the most important notions of dimension in geometric measure theory. It provides a means to describe the &amp;ldquo;size&amp;rdquo; of a set in terms of &amp;ldquo;how tightly&amp;rdquo; it can be covered with open sets. Recent work has highlighted an interesting connection between the Hausdorff dimension of a set and the computability-theoretical properties of its points. In particular, the effective (Hausdorff) dimension of a point can be defined in terms of its (in)compressibility, so that incompressible (aka random) points have maximum effective dimension. The Point-to-Set Principle states that the Hausdorff dimension of a set can be obtained as the supremum of the effective dimension of its points relative to a fixed parameter (also called oracle). This raises a natural question: how hard is it to compute such an oracle and what is its computational strength? In this talk, we will discuss some recent results in this direction. This is joint work with Ben Koch, Elvira Mayordomo, Arno Pauly, and Cecilia Pradic.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Davide Trotta&#39;s talk</title>
       <link>http://localhost:1313/posts/2025-05-06/</link>
       <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2025-05-06/</guid>
-      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;This Thursday&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Davide Trotta&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;from the University of Padova will give a talk on &amp;ldquo;A topos for extended Weihrauch degrees&amp;rdquo; as a part of our seminar series.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Abstract:&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Weihrauch reducibility [2] is a key notion of reducibility between computational problems that is useful to calibrate the uniform computational strength of a multi-valued function. Such reducibility provides a framework where one can formalize questions such as “which theorems can be transformed continuously or computably into another?”&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;This Thursday&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://trottadavide.github.io/&#34;&gt;Davide Trotta&lt;/a&gt; from the University of Padova will give a talk on &amp;ldquo;A topos for extended Weihrauch degrees&amp;rdquo; as a part of our seminar series.**Abstract:**Weihrauch reducibility [2] is a key notion of reducibility between computational problems that is useful to calibrate the uniform computational strength of a multi-valued function. Such reducibility provides a framework where one can formalize questions such as “which theorems can be transformed continuously or computably into another?”&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Weihrauch problems as containers</title>
       <link>http://localhost:1313/posts/2025-04-30/</link>
       <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2025-04-30/</guid>
-      <description>&lt;p&gt;Today&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Ian Price will give a talk on &amp;ldquo;Weihrauch problems as containers&amp;rdquo; as a part of our seminar series.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Abstract:&lt;/p&gt;&#xA;&lt;p&gt;Weihrauch problems can be regarded as containers over the category of projective represented spaces and Weihrauch reductions correspond exactly to container morphisms. Using this characterisation, a number of operators over Weihrauch degrees, including the pomposition of degrees, arise naturally from the theory of polynomial functors.&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;Today&lt;/p&gt;
+&lt;p&gt;Ian Price will give a talk on &amp;ldquo;Weihrauch problems as containers&amp;rdquo; as a part of our seminar series.&lt;/p&gt;
+&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Weihrauch problems can be regarded as containers over the category of projective represented spaces and Weihrauch reductions correspond exactly to container morphisms. Using this characterisation, a number of operators over Weihrauch degrees, including the pomposition of degrees, arise naturally from the theory of polynomial functors.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>We are at the 41st British Colloquium for Theoretical Computer Science at Strathclyde University (Glasgow)</title>
       <link>http://localhost:1313/posts/2025-04-14/</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2025-04-14/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+      <description>
+        
+          
+            &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq9iGCNeaa6RTCBmJOoVqP5ottW0DwOA8fg5qeiTjvhYaREW-HKLxXkKVVTfOpQLxL-BNrKbUSKLytS18idfkh2uAphruHOr2cK6kEcfvu7CQctoNv5xMnqStODKELz9T69y7-wiC6sVBvVGIF-HRm3Gel_4ENo3aNG3Qro5nu6xrylRxWXJd3eYOgMczz/s2048/PhotoBCTCS2025.jpeg&#34;&gt;&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;BCTCS 2025 at Strathclyde University, Glasgow&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Marek Jezinski, Alec Critten, Harry Bryant and Olga Petrovska are currently attending the 41st British Colloquium for Theoretical Computer Science at Strathclyde University, Glasgow.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>On Threshold Problems for Orbits of Semigroup Actions by Eike</title>
       <link>http://localhost:1313/posts/2025-04-02/</link>
       <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2025-04-02/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;Today Eike Neumann will give a talk on Threshold Problems for Orbits of Semigroup Actions as a part of our theory seminar series.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Consider the following computational problem: Given a real function g on a space X, a compactly generated semi-group S acting on X, and a point x in X, is g positive on every point of the orbit of x under S?&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Giorgio Genovesi on Characterizing Regular Countable Second Countable Spaces in Second Order Arithmetic</title>
       <link>http://localhost:1313/posts/2025-03-13/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2025-03-13/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Giorgio Genovesi from Leeds, who will&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;be talking about countable second countable topological spaces in the context of reverse mathematics.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Title: &lt;!-- raw HTML omitted --&gt;Characterizing Regular Countable Second Countable Spaces in Second Order Arithmetic&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Abstract: &lt;!-- raw HTML omitted --&gt;Regular countable second countable (CSC) spaces admit rather nice characterizations and can easily be formalized in second order arithmetic. It is natural to ask what set existence axioms are needed to ensure regular CSC spaces remain nice. It turns out many theorems which characterize regular CSC are equivalent to one of the big five subsystems of second order arithmetic.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;Today&amp;rsquo;s seminar talk is by&lt;/p&gt;
+&lt;p&gt;Giorgio Genovesi from Leeds, who will&lt;/p&gt;
+&lt;p&gt;be talking about countable second countable topological spaces in the context of reverse mathematics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Characterizing Regular Countable Second Countable Spaces in Second Order Arithmetic&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Hideki Tsuiki visiting Swansea</title>
       <link>http://localhost:1313/posts/2025-01-23/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2025-01-23/</guid>
-      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Professor Hideki Tsuiki from Kyoto University is visiting Swansea University from 22nd to 24th of January. Yesterday, he gave a talk on &lt;!-- raw HTML omitted --&gt;Coinductive View of Shadows of 3D Fractals&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;The talk did not only give insight into a fascinating area of research, but was also entertaining. You may want to check out some of Prof. Tsuiki&amp;rsquo;s videos, e.g. &lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VsFD37f-2ck&#34;&gt;https://www.youtube.com/watch?v=VsFD37f-2ck&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;Hideki Tsuiki in Swansea&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;http://localhost:1313/pro-sgPnZdmh.jpeg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Professor Hideki Tsuiki from Kyoto University is visiting Swansea University from 22nd to 24th of January. Yesterday, he gave a talk on &lt;em&gt;Coinductive View of Shadows of 3D Fractals&lt;/em&gt;.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Oliver Kullmann&#39;s talk</title>
       <link>http://localhost:1313/posts/2025-01-13/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2025-01-13/</guid>
-      <description>&lt;p&gt;Today Oliver Kullmann will give a talk on Automated search for special Latin squares as a part of our Seminar series.&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Abstract:&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Latin squares have been studied since the days of Euler. After some overview on the history and background, an effort for a complete enumeration of special types of Latin squares of order 13, by as completely automated means as possible (which is currently actually not possible), will be presented and evaluated. The main method here is Cube-and-Conquer, a kind of 2-stage SAT-solving (as invented by the presenter). Quite some fine-tuning of representation and choice of solver was needed, and will be discussed (at some high level)&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;Today Oliver Kullmann will give a talk on Automated search for special Latin squares as a part of our Seminar series.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Latin squares have been studied since the days of Euler. After some overview on the history and background, an effort for a complete enumeration of special types of Latin squares of order 13, by as completely automated means as possible (which is currently actually not possible), will be presented and evaluated. The main method here is Cube-and-Conquer, a kind of 2-stage SAT-solving (as invented by the presenter). Quite some fine-tuning of representation and choice of solver was needed, and will be discussed (at some high level)&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Matteo Acclavio visiting Swansea</title>
       <link>http://localhost:1313/posts/2024-11-28/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2024-11-28/</guid>
-      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Next week&amp;rsquo;s theory seminar will be given by &lt;!-- raw HTML omitted --&gt;Matteo Acclavio&lt;!-- raw HTML omitted --&gt; from the University of Sussex, who is visiting us for a few days. The topic will be a new logical framework for concurrent programs, abstract below.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Title: &lt;!-- raw HTML omitted --&gt;A new logical framework for concurrent programs&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;Next week&amp;rsquo;s theory seminar will be given by &lt;a href=&#34;https://profiles.sussex.ac.uk/p623544-matteo-acclavio&#34;&gt;Matteo Acclavio&lt;/a&gt; from the University of Sussex, who is visiting us for a few days. The topic will be a new logical framework for concurrent programs, abstract below.&lt;strong&gt;Title:&lt;/strong&gt; A new logical framework for concurrent programs&lt;br&gt;
+&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br&gt;
+Designing logical frameworks to reason about the properties of concurrent programs while accurately capturing the essence of concurrency is a challenging task.&lt;br&gt;
+The main difficulties can be traced back to the syntactic constraints of the languages used for this purpose.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Galileo Sartor&#39;s talk</title>
       <link>http://localhost:1313/posts/2024-11-13/</link>
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2024-11-13/</guid>
-      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Today&amp;rsquo;s&lt;/p&gt;&#xA;&lt;p&gt;theory seminar talk will be by Galileo Sartor on &amp;ldquo;Representing and reasoning with legal aspects of traffic rules for autonomous vehicles&amp;rdquo;.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;Today&amp;rsquo;s&lt;/p&gt;
+&lt;p&gt;theory seminar talk will be by Galileo Sartor on &amp;ldquo;Representing and reasoning with legal aspects of traffic rules for autonomous vehicles&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In this talk, I will give an overview of a modular system for representing and reasoning with legal aspects of traffic rules for autonomous vehicles.&lt;br&gt;
+We focus on a subset of the United Kingdom&amp;rsquo;s Highway Code (HC) related to junctions.&lt;br&gt;
+As human drivers and automated vehicles (AVs) will interact on the roads, especially in urban environments, we claim that an accessible, unitary, high-level computational model should exist and be applicable to both users.&lt;br&gt;
+Autonomous vehicles introduce a shift in liability that should not bring disadvantages or increased burden on human drivers.&lt;br&gt;
+The proposed system is built of three main components: a natural language interface, using Logical English, used to encode the rules; an internal representation of the rules in Prolog; and a simple multi-agent-based simulation environment, built in NetLogo. The three components interact: Logical English is internally translated in Prolog, and the resulting code (along with some support code) interfaces with NetLogo with a bridge.&lt;br&gt;
+Such a modular approach enables the different components to carry different ``burdens&amp;rsquo;&amp;rsquo; in the overall system; it also allows replacing modules.&lt;br&gt;
+With the NetLogo simulation, we can visualize the effect of the modeled rules as well as validate the system with a simple dynamic running scenario.&lt;br&gt;
+Designated agents monitor the behaviour of the vehicles for compliance and record potential violations where they occur. The information on potential violations is then utilized by validator agents, to determine whether the violation is punishable, differentiating between exceptions and cases.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Georg Moser visiting</title>
       <link>http://localhost:1313/posts/2024-10-30/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2024-10-30/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;MARRY: MARRYing the analyses of feasible algorithms and problems.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;Georg Moser, Prof of Computer Science at &lt;a href=&#34;https://www.uibk.ac.at/en/&#34;&gt;University of Innsbruck&lt;/a&gt;, is visiting again this week to continue our work on the Royal Society funded project&lt;em&gt;MARRY: MARRYing the analyses of feasible algorithms and problems.&lt;/em&gt;&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>An introduction to effective fractal dimension by Benjamin Koch</title>
       <link>http://localhost:1313/posts/2024-10-25/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2024-10-25/</guid>
-      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Today&amp;rsquo;s theory seminar will be given by Benjamin Koch, who will give as an introduction to effective fractal dimension.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Abstract:&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;Today&amp;rsquo;s theory seminar will be given by Benjamin Koch, who will give as an introduction to effective fractal dimension.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The purpose of this talk is to give an overview of effective fractal dimension, which is an application of computability theory to geometric measure theory. I will start with an overview of two of the most important notions of dimension in classical measure theory, the Hausdorff and packing dimensions. Following this will be the formulation of so-called effective dimensions for points in R^n via Kolmogorov complexity. The highlight of the study of effective dimension thus far has been the “point-to-set principle”, which connects the effective dimension of points in R^n to the classical dimension of the subsets in which they reside. I will discuss a handful of the results that have come from this connection, which include an alternate proof of the Kakeya conjecture in R^2, an improved lower bound on the Hausdorff dimension of Furstenburg sets (which generalize Kakeya sets in R^2), and a generalization of an upper bound on the Hausdorff dimension of intersections and products of subsets of R^n&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Theory Seminar Series</title>
       <link>http://localhost:1313/posts/2024-10-21/</link>
       <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2024-10-21/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;The decidability of these problems is almost exclusively studied under the assumption that points, functions, and sets are specified exactly by a finite amount of data (e.g. rational or algebraic parameters). In this setting, positive results are largely limited to linear systems, since already very simple non-linear systems can have undecidable escape problems.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;The theory seminar tomorrow will be given by Eike on &amp;ldquo;Robust Decidability of Escape Problems for General Non-Linear Systems.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br&gt;
+A wide range of problems from a diverse range of areas can be formulated as &amp;ldquo;escape problems&amp;rdquo;: does a given point escape a set under the iteration of a function, or do all points in a given set escape the set under the function.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Talk on Assuring non-functional requirements</title>
       <link>http://localhost:1313/posts/2024-10-04/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2024-10-04/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Prof &lt;!-- raw HTML omitted --&gt;Magne Haveraaen&lt;!-- raw HTML omitted --&gt; (University Bergen, Norway)&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;As part of his involvement in ∆QSD group, he is organising a seminar talk:&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;This summer &amp;amp; autumn, our department is hosting&lt;/p&gt;
+&lt;p&gt;Prof &lt;a href=&#34;https://www4.uib.no/en/find-employees/Magne.Haveraaen&#34;&gt;Magne Haveraaen&lt;/a&gt; (University Bergen, Norway)&lt;/p&gt;
+&lt;p&gt;As part of his involvement in ∆QSD group, he is organising a seminar talk:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“Assuring non-functional requirements”&lt;/em&gt;&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Research visit</title>
       <link>http://localhost:1313/posts/2024-09-10/</link>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2024-09-10/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;(Bath University) are visiting Swansea this week. This afternoon Thomas will give a talk on the &amp;ldquo;Rates of convergence for stochastic processes&amp;rdquo; as a part of our seminar series.&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Abstract:&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;&lt;a href=&#34;https://t-powell.github.io/&#34;&gt;Thomas Powell&lt;/a&gt; and &lt;a href=&#34;https://researchportal.bath.ac.uk/en/persons/davide-barbarossa&#34;&gt;Davide Barbarossa&lt;/a&gt; (Bath University) are visiting Swansea this week. This afternoon Thomas will give a talk on the &amp;ldquo;Rates of convergence for stochastic processes&amp;rdquo; as a part of our seminar series.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Eike was invited to give a talk in Kochel</title>
       <link>http://localhost:1313/posts/2024-09-09/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2024-09-09/</guid>
-      <description>&lt;p&gt;We are glad to inform that Eike Neumann was invited to talk at the Seminar on Computable Topology, which will take place in Kochel, Germany on 13-15 September.&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;We are glad to inform that Eike Neumann was invited to talk at the Seminar on Computable Topology, which will take place in Kochel, Germany on 13-15 September.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>GoSCAI 2024</title>
       <link>http://localhost:1313/posts/2024-07-12/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2024-07-12/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;GoSCAI workshop&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;and discussion of research opportunities with Grenoble.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;Arnold, Monika, Bertie and Jay went to Grenoble 1-4 July to attend the&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://miai.univ-grenoble-alpes.fr/events/workshop-grenoble-swansea-on-ai-1453893.kjsp&#34;&gt;GoSCAI workshop&lt;/a&gt; and discussion of research opportunities with Grenoble.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;http://localhost:1313/Grenoble_Campus_2016.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Excursion to Gower</title>
       <link>http://localhost:1313/posts/2024-05-19/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2024-05-19/</guid>
-      <description>&lt;p&gt;Our Agda Implementors Meeting finished today with a lovely walk in Gower.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;Our Agda Implementors Meeting finished today with a lovely walk in Gower.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;Gower Walk&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;http://localhost:1313/olga-gower7.jpeg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Agda Implementors Meeting</title>
       <link>http://localhost:1313/posts/2024-05-14/</link>
       <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2024-05-14/</guid>
-      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;The &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;38th Agda Implementors&amp;rsquo; Meeting&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; is taking place at the Computational Foundry&lt;/p&gt;&#xA;&lt;p&gt;from Monday 13 to Saturday 18 May 2024. It will be hosted by the&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Theoretical Computer Science Research Group&lt;!-- raw HTML omitted --&gt;,&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;The &lt;a href=&#34;https://wiki.portal.chalmers.se/agda/Main/AIMXXXVIII&#34;&gt;38th Agda Implementors&amp;rsquo; Meeting&lt;/a&gt; is taking place at the Computational Foundry&lt;/p&gt;
+&lt;p&gt;from Monday 13 to Saturday 18 May 2024. It will be hosted by the&lt;/p&gt;
+&lt;p&gt;[Theoretical Computer Science Research Group,&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Fahad Alhabardi passed his PhD viva</title>
       <link>http://localhost:1313/posts/2024-05-10/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2024-05-10/</guid>
-      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Congratulations to Fahad Alhabardi for passing his PhD (supervised by Anton Setzer and Arnold Beckmann) viva today! Thanks to the external examiner Conor McBride from Strathclyde University, the internal examiner Ulrich Berger, and the chair Bertie Mueller.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;Congratulations to Fahad Alhabardi for passing his PhD (supervised by Anton Setzer and Arnold Beckmann) viva today! Thanks to the external examiner Conor McBride from Strathclyde University, the internal examiner Ulrich Berger, and the chair Bertie Mueller.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Máté Szabó&#39;s talk</title>
       <link>http://localhost:1313/posts/2024-04-18/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2024-04-18/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;This talk examines and compares two strikingly different proofs of the first incompleteness theorem. The first proof of the theorem was famously published by Kurt Gödel in 1931. However, during the previous decade, Emil Post already made significant breakthroughs in this topic, even though he was unable to publish his work for various reasons. After taking a short look at Gödel&amp;rsquo;s diagonal proof, we will engage in more detail with Post&amp;rsquo;s lesser-known proof. The latter proof is purely syntactic, and computer scientists of the day could recognize Post&amp;rsquo;s approach as presenting one of the earliest term rewrite systems. By the end of the talk the audience will hopefully agree with Post stating that “with the Principia Mathematica as a common starting point [i.e. of Gödel and Post], the roads followed towards our common conclusions are so different that much may be gained from a comparison of these parallel evolutions”.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;&lt;a href=&#34;https://www.hsmt.ox.ac.uk/people/dr-mate-szabo&#34;&gt;Máté Szabó&lt;/a&gt; is visiting Swansea. He will give a talk today as a part of our theory seminar series:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gödel&amp;rsquo;s and Post&amp;rsquo;s Proofs of the Incompleteness Theorem&lt;/strong&gt;This talk examines and compares two strikingly different proofs of the first incompleteness theorem. The first proof of the theorem was famously published by Kurt Gödel in 1931. However, during the previous decade, Emil Post already made significant breakthroughs in this topic, even though he was unable to publish his work for various reasons. After taking a short look at Gödel&amp;rsquo;s diagonal proof, we will engage in more detail with Post&amp;rsquo;s lesser-known proof. The latter proof is purely syntactic, and computer scientists of the day could recognize Post&amp;rsquo;s approach as presenting one of the earliest term rewrite systems. By the end of the talk the audience will hopefully agree with Post stating that “with the Principia Mathematica as a common starting point [i.e. of Gödel and Post], the roads followed towards our common conclusions are so different that much may be gained from a comparison of these parallel evolutions”.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Swansea Theory Group attends the 40th British Colloquium for Theoretical Computer Science</title>
       <link>http://localhost:1313/posts/2024-03-28/</link>
       <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2024-03-28/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Monika has been invited to give a talk on Logic in Railway Verification. Among the other invited speakers are&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Anupam Das&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;(University of Birmingham),&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;Monika, Faron, Olga, Filippos, Iain and James are attending the 40th British Colloquium for Theoretical Computer Science (&lt;a href=&#34;https://bctcs2024.github.io/&#34;&gt;BCTCS 2024&lt;/a&gt;) hosted by the University of Bath. This year is it also collocated with the 5th Southern and Midlands Logic Seminar.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>CCA 2024: Call for Submissions</title>
       <link>http://localhost:1313/posts/2024-03-15/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2024-03-15/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Computability and Complexity in Analysis (&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;CCA&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;ol start=&#34;2024&#34;&gt;&#xA;&lt;li&gt;will take place on&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;July 15-18, 2024 here in Swansea.&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Topics:&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;Twenty-First International Conference on&lt;/p&gt;
+&lt;p&gt;Computability and Complexity in Analysis (CCA 2024) will take place on&lt;/p&gt;
+&lt;p&gt;July 15-18, 2024 here in Swansea.&lt;/p&gt;
+&lt;p&gt;Topics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Computable analysis&lt;/li&gt;
+&lt;li&gt;Complexity on real numbers&lt;/li&gt;
+&lt;li&gt;Computable numbers, subsets and functions&lt;/li&gt;
+&lt;li&gt;Theory of representations&lt;/li&gt;
+&lt;li&gt;Computable differential equations&lt;/li&gt;
+&lt;li&gt;Randomness and computable measure theory&lt;/li&gt;
+&lt;li&gt;Algorithmic fractal dimension&lt;/li&gt;
+&lt;li&gt;Effective descriptive set theory&lt;/li&gt;
+&lt;li&gt;Weihrauch complexity&lt;/li&gt;
+&lt;li&gt;Reverse analysis&lt;/li&gt;
+&lt;li&gt;Constructive analysis&lt;/li&gt;
+&lt;li&gt;Domain theory and analysis&lt;/li&gt;
+&lt;li&gt;Realizability theory and analysis&lt;/li&gt;
+&lt;li&gt;Models of computability on real numbers&lt;/li&gt;
+&lt;li&gt;Real number algorithms&lt;/li&gt;
+&lt;li&gt;Exact real number arithmetic
+Submission deadline: April 29, 2024. For more information, click below:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;&#34;
+      
+        class=&#34;image_figure image_external image_unprocessed&#34;
+        src=&#34;http://cca-net.de/cca2024/&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Mukesh Tiwari joined Swansea University</title>
       <link>http://localhost:1313/posts/2024-03-14/</link>
       <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2024-03-14/</guid>
-      <description>&lt;p&gt;We are happy that Mukesh Tiwari joined Swansea University recently. Today he will give a talk as a part of out theory seminar series:&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Formalizing linear algebra over semirings&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;matrix formal power series (Kleene star) over semiring in the Coq theorem prover. Semiring is a weaker structure than field and therefore can accommodate more applications and I will demonstrate the flexibility of this implementation by instantiating the abstract operators of semiring with concrete mathematical operators and depending on the instantiation, it&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;We are happy that Mukesh Tiwari joined Swansea University recently. Today he will give a talk as a part of out theory seminar series:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Formalizing linear algebra over semirings&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Linear algebra over real numbers (field algebraic structure) is a powerful mathematical tool for understanding and solving a wide range of computing problems. Nonetheless, it is not without its limitations, as a specific implementation tailored to one problem may not be readily applicable to solve another, i.e., it does not generalise well. In this talk, I will present a certified implementation of several linear algebraic methods such as matrix addition, matrix multiplication, matrix exponentiation, and&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>MRes Viva </title>
       <link>http://localhost:1313/posts/2024-02-29/</link>
       <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2024-02-29/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;Congratulations to Olivia Weston for passing the MRes Viva! The examiners were Simon Fowler and Ulrich Berger. First supervisor was Cecilia Pradic.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Tonicha Crook passed her PhD viva</title>
       <link>http://localhost:1313/posts/2024-02-22/</link>
       <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2024-02-22/</guid>
-      <description>&lt;p&gt;Congratulations to Tonicha Crook passed her PhD viva today. The examiners were Pieter Collins (Maastricht) and Faron Moller (Swansea). The title of her PhD thesis is:&lt;/p&gt;&#xA;&lt;p&gt;C&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;omputable Analysis and Game Theory: From Foundations to Applications&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;. The PhD was supervised by Arno Pauly.&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;Congratulations to Tonicha Crook passed her PhD viva today. The examiners were Pieter Collins (Maastricht) and Faron Moller (Swansea). The title of her PhD thesis is:&lt;/p&gt;
+&lt;p&gt;C&lt;em&gt;&lt;strong&gt;omputable Analysis and Game Theory: From Foundations to Applications&lt;/strong&gt;&lt;/em&gt;. The PhD was supervised by Arno Pauly.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Pieter Collins visiting</title>
       <link>http://localhost:1313/posts/2024-02-19/</link>
       <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2024-02-19/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;&lt;a href=&#34;https://www.blogger.com/u/1/blog/post/edit/304872973678281747/9042283851169225809#&#34;&gt;Pieter Collins&lt;/a&gt; is currently visiting us from Maastricht. Today he will give a talk on &amp;ldquo;Verified Verification: Formal Proofs of Rigorous Numerical Methods for Model-Checking Dynamic Systems&amp;rdquo; as a part of our Theory Seminar series.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>New Publications</title>
       <link>http://localhost:1313/posts/2024-02-02/</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2024-02-02/</guid>
-      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Manlio Valenti&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;, together with his collaborators &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;David Reed Solomon&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; and &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Damir Dzhafarov, &lt;!-- raw HTML omitted --&gt; submitted the paper “&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;The tree pigeonhole principle in the Weihrauch degrees”:&lt;!-- raw HTML omitted --&gt; &lt;a href=&#34;https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/29664&#34;&gt;https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/29664&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;&lt;a href=&#34;https://iss-www.swansea.ac.uk/staff/manlio.valenti/&#34;&gt;Manlio Valenti&lt;/a&gt;, together with his collaborators &lt;a href=&#34;https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Person/26501&#34;&gt;David Reed Solomon&lt;/a&gt; and Damir Dzhafarov,  submitted the paper “The tree pigeonhole principle in the Weihrauch degrees”:&lt;a href=&#34;%20https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/29664%20&#34;&gt; https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/29664&lt;/a&gt;&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>David Trotta visiting Swansea</title>
       <link>http://localhost:1313/posts/2023-12-01/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2023-12-01/</guid>
-      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;We are thrilled to extend a warm welcome to &lt;!-- raw HTML omitted --&gt;Davide Trotta&lt;!-- raw HTML omitted --&gt;, a&#xA;postdoctoral researcher at the Department of Computer Science at the University&#xA;of Pisa in Italy. Davide brings his knowledge and expertise to our community,&#xA;and we are excited to have him as a guest speaker in our upcoming seminar&#xA;series, which will take place on Monday, 4 December in our Theory Lab.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;We are thrilled to extend a warm welcome to &lt;a href=&#34;https://trottadavide.github.io/&#34;&gt;Davide Trotta&lt;/a&gt;, a
+postdoctoral researcher at the Department of Computer Science at the University
+of Pisa in Italy. Davide brings his knowledge and expertise to our community,
+and we are excited to have him as a guest speaker in our upcoming seminar
+series, which will take place on Monday, 4 December in our Theory Lab.&lt;strong&gt;Title:&lt;/strong&gt; Categorifying computable reducibilities&lt;strong&gt;Abstract:&lt;/strong&gt; One of the most relevant notions of categorical logic which
+enabled the study of logic from a purely algebraic perspective is the notion of
+a (hyper)doctrine, introduced in a series of seminal papers by F.W. Lawvere to
+synthesize the structural properties of logical systems. In this talk, I will
+introduce this categorical approach to logic and explain how various notions
+well-known in computability can be framed within this categorical framework.In particular, I will present categorical formulations in
+terms of Lawvere doctrines for the Medvedev, Muchnik, and Weihrauch
+reducibilities.Finally, I will discuss some universal properties of such
+doctrines, showing how this study enables us to identify, from an abstract
+perspective, the common features of these notions of reducibility.This talk is based on joint work with Manlio Valenti and
+Valeria de Paiva.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>CCA 2024</title>
       <link>http://localhost:1313/posts/2023-11-27/</link>
       <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2023-11-27/</guid>
-      <description>&lt;p&gt;Computability and Complexity Analysis conference is coming to Swansea next year. It will take place in &lt;!-- raw HTML omitted --&gt;Computational Foundry&lt;!-- raw HTML omitted --&gt; on 11-14 July.&lt;/p&gt;&#xA;&lt;p&gt;Watch this space for more updates.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;Computability and Complexity Analysis conference is coming to Swansea next year. It will take place in &lt;a href=&#34;https://www.swansea.ac.uk/computational-foundry/&#34;&gt;Computational Foundry&lt;/a&gt; on 11-14 July.&lt;/p&gt;
+&lt;p&gt;Watch this space for more updates.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Happy New Year!</title>
       <link>http://localhost:1313/posts/2023-11-14/</link>
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2023-11-14/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;http://localhost:1313/Teal%20Alcohol%20Ink%20Trust%20Yourself%20Quote%20Facebook%20Post.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Giovanni Solda visiting Swansea</title>
       <link>http://localhost:1313/posts/2023-11-10/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2023-11-10/</guid>
-      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Next week &lt;!-- raw HTML omitted --&gt;Giovanni Solda&lt;!-- raw HTML omitted --&gt; is visiting us from Ghent. He will give a talk on &amp;ldquo;&lt;!-- raw HTML omitted --&gt;A combinatorial principle weak over weak systems yet strong over strong systems&lt;!-- raw HTML omitted --&gt;&amp;rdquo;.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;Next week &lt;a href=&#34;https://research.ugent.be/web/person/giovanni-solda-0/publications/en&#34;&gt;Giovanni Solda&lt;/a&gt; is visiting us from Ghent. He will give a talk on &amp;ldquo;A combinatorial principle weak over weak systems yet strong over strong systems&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;**Abstract:***Better quasi orders (henceforth bqos) are a strengthening of the notion of well quasi order. Even if their definition is more complicated, the former enjoy nice closure properties that make them, in a way, easier to work with than the latter: this feature made bqos an&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Theory Blog is Back!</title>
       <link>http://localhost:1313/posts/2023-11-08/</link>
       <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/2023-11-08/</guid>
-      <description>&lt;p&gt;Welcome to &lt;!-- raw HTML omitted --&gt;Swansea University Theory Group&lt;!-- raw HTML omitted --&gt;&amp;rsquo;s new blog. Follow us for updates!&lt;/p&gt;&#xA;&lt;p&gt;The Swansea Theory Group is internationally renowned for its research&#xA;in Logic in Computer Science. The active research areas are:&#xA;Computability Theory, Computational Complexity, Proof Theory, Type&#xA;Theory, Game Theory, Algorithms,&lt;/p&gt;&#xA;&lt;p&gt;Formal Methods (Automated and&#xA;Interactive Theorem Proving), Cyber Security, Blockchain Technology,&#xA;Verification of Railway Control Systems), Artificial Intelligence&#xA;(Satisfiability Solving, Multi-agent Systems, Argumentation Theory,&#xA;Trustable Machine Learning, AI and Law).&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;Welcome to &lt;a href=&#34;https://swansea-theory.blogspot.com/p/about-us.html%20&#34;&gt;Swansea University Theory Group&lt;/a&gt;&amp;rsquo;s new blog. Follow us for updates!&lt;/p&gt;
+&lt;p&gt;The Swansea Theory Group is internationally renowned for its research
+in Logic in Computer Science. The active research areas are:
+Computability Theory, Computational Complexity, Proof Theory, Type
+Theory, Game Theory, Algorithms,&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
   </channel>
 </rss>

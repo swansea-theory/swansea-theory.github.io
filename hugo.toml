@@ -1,4 +1,11 @@
 baseURL = 'https://swansea-theory.github.io/'
 languageCode = 'en-us'
 title = 'Theoretical Computer Science -- Swansea University'
-theme = "mainroad"
+theme = "hugo-clarity"
+summaryLength = 30
+
+sectionPagesMenu = 'main'
+
+[markup.goldmark.renderHooks.image]
+enableDefault = true
+
