@@ -1,0 +1,31 @@
+<header class="site-header">
+
+  <div class="wrapper">
+    {%- assign page_titles = site.pages | map: 'title' | compact %}
+    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+
+    <nav class="site-nav">
+      {% for link in site.data.navigation.navigation %}
+      {% if link.subitems[0] %}
+      <ul class="menu">
+        {% for entry in link.subitems %}
+        <li><a href="{{ entry.url }}">{{ entry.title | escape }}</li>
+          {% endfor %}
+          </ul>
+          {% endif %}
+      <a class="page-link" href="{{ link.url }}">{{ link.title | escape }}</a>
+      {% endfor %}
+    </nav>
+    
+    <!-- {%- unless page_titles == empty or page_pages contains 'page' %} -->
+    <!--   <nav class="site-nav"> -->
+    <!--     <input type="checkbox" id="nav-trigger" /> -->
+    <!--     <label for="nav-trigger"> -->
+    <!--       <span class="menu-icon"></span> -->
+    <!--     </label> -->
+
+        
+    <!--   </nav> -->
+    <!-- {%- endunless %} -->
+  </div>
+</header>

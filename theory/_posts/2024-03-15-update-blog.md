@@ -1,0 +1,34 @@
+---
+layout: post
+title: "CCA 2024: Call for Submissions"
+date: 2024-03-15
+---
+
+Twenty-First International Conference on
+
+Computability and Complexity in Analysis (CCA 2024) will take place on
+
+July 15-18, 2024 here in Swansea.
+
+Topics:
+
+- Computable analysis
+- Complexity on real numbers
+- Computable numbers, subsets and functions
+- Theory of representations
+- Computable differential equations
+- Randomness and computable measure theory
+- Algorithmic fractal dimension
+- Effective descriptive set theory
+- Weihrauch complexity
+- Reverse analysis
+- Constructive analysis
+- Domain theory and analysis
+- Realizability theory and analysis
+- Models of computability on real numbers
+- Real number algorithms
+- Exact real number arithmetic
+Submission deadline: April 29, 2024. For more information, click below:
+
+![](http://cca-net.de/cca2024/)
+

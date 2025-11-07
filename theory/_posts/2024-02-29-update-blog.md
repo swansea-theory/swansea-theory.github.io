@@ -1,0 +1,8 @@
+---
+layout: post
+title: "MRes Viva "
+date: 2024-02-29
+---
+
+Congratulations to Olivia Weston for passing the MRes Viva! The examiners were Simon Fowler and Ulrich Berger. First supervisor was Cecilia Pradic.
+

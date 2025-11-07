@@ -1,0 +1,9 @@
+navigation:
+    - title: People
+      url: /people/
+    - title: Seminars
+      url: /seminars/
+    - title: Conferences
+      url: /conferences/
+    - title: Blog
+      url: /blog/

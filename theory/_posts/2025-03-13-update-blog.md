@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Giorgio Genovesi on Characterizing Regular Countable Second Countable Spaces in Second Order Arithmetic"
+date: 2025-03-13
+---
+
+Today's seminar talk is by
+
+Giorgio Genovesi from Leeds, who will
+
+be talking about countable second countable topological spaces in the context of reverse mathematics.
+
+  
+**Title:** Characterizing Regular Countable Second Countable Spaces in Second Order Arithmetic
+
+  
+
+**Abstract:** Regular countable second countable (CSC) spaces admit rather nice characterizations and can easily be formalized in second order arithmetic. It is natural to ask what set existence axioms are needed to ensure regular CSC spaces remain nice. It turns out many theorems which characterize regular CSC are equivalent to one of the big five subsystems of second order arithmetic.
+
+  
+

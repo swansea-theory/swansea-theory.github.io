@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Tonicha Crook passed her PhD viva"
+date: 2024-02-22
+---
+
+Congratulations to Tonicha Crook passed her PhD viva today. The examiners were Pieter Collins (Maastricht) and Faron Moller (Swansea). The title of her PhD thesis is:
+
+ C***omputable Analysis and Game Theory: From Foundations to Applications***. The PhD was supervised by Arno Pauly.
+
