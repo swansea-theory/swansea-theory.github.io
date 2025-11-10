@@ -1,0 +1,12 @@
+---
+layout: post
+title: "CCA 2024"
+date: 2023-11-27
+---
+
+Computability and Complexity Analysis conference is coming to Swansea next year. It will take place in [Computational Foundry](https://www.swansea.ac.uk/computational-foundry/) on 11-14 July.
+
+
+
+Watch this space for more updates.  
+
