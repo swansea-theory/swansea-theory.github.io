@@ -1,0 +1,61 @@
+---
+layout: page
+title: "People"
+permalink: /people/
+---
+
+<style type="text/css">
+  .people {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: stretch;
+  }
+  
+  .person {
+      max-width: 220px;
+      border: 1px solid #d2cbcb;
+      margin-right: 20px;
+      padding: 20px;
+      box-sizing: border-box;
+      border-radius: 10px;
+      background-color: #f4f4f4;
+      margin-bottom: 20px;
+  }
+
+  .person > h3 {
+      margin-top: 10px;
+      size: 0.9em;
+  }
+
+  .person > img {
+      display: block;
+      border-radius: 1000px;
+      width: 80%;
+      margin: 0 auto;
+      border: 1px solid gray;
+  }
+</style>
+
+<div class="people">
+
+{% for person in site.data.people.members %}
+
+<a href="person.link">
+<div class="person">
+  <img src="{{ person.img }}"/>
+  <h3>{{ person.title }} {{ person.name }}</h3>
+  {% if person.description %}
+  <p>{{ person.description }}</p>
+  {% endif %}
+</div>
+</a>
+
+{% endfor %}
+
+</div>
+
+<h2>PhD Students</h2>
+
+<h2>Research Assistants</h2>
+
+<h2>Alumni</h2>
