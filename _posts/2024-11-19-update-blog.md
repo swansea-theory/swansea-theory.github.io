@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Galileo Sartor's talk"
+date: 2024-11-19
+---
+
+Today's theory seminar talk will be by Galileo Sartor on "Representing and reasoning with legal aspects of traffic rules for autonomous vehicles".
+
+  
+
+**Abstract:**
+
+In this talk, I will give an overview of a modular system for representing and reasoning with legal aspects of traffic rules for autonomous vehicles.  
+We focus on a subset of the United Kingdom's Highway Code (HC) related to junctions.  
+As human drivers and automated vehicles (AVs) will interact on the roads, especially in urban environments, we claim that an accessible, unitary, high-level computational model should exist and be applicable to both users.  
+Autonomous vehicles introduce a shift in liability that should not bring disadvantages or increased burden on human drivers.  
+The proposed system is built of three main components: a natural language interface, using Logical English, used to encode the rules; an internal representation of the rules in Prolog; and a simple multi-agent-based simulation environment, built in NetLogo. The three components interact: Logical English is internally translated in Prolog, and the resulting code (along with some support code) interfaces with NetLogo with a bridge.  
+Such a modular approach enables the different components to carry different ``burdens'' in the overall system; it also allows replacing modules.  
+With the NetLogo simulation, we can visualize the effect of the modeled rules as well as validate the system with a simple dynamic running scenario.  
+Designated agents monitor the behaviour of the vehicles for compliance and record potential violations where they occur. The information on potential violations is then utilized by validator agents, to determine whether the violation is punishable, differentiating between exceptions and cases.
+
+  
+
