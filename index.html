@@ -1,0 +1,56 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+permalink: /
+---
+
+<style type="text/css">
+  .person {
+      width: 100px;
+  }
+
+  .person.img {
+      width: 100%
+  }
+</style>
+
+The <a href="https://www.swansea.ac.uk/compsci/research-and-impact/theoretical-computer-science/">Swansea Theory Group</a>
+is internationally renowned for its research in Logic in Computer
+Science. The active research areas are: Computability Theory,
+Computational Complexity, Proof Theory, Type Theory, Game Theory,
+Algorithms, Formal Methods (Automated and Interactive Theorem
+Proving), Cyber Security, Blockchain Technology, Verification of
+Railway Control Systems, Artificial Intelligence (Satisfiability
+Solving, Multi-agent Systems, Argumentation Theory, Trustable Machine
+Learning, AI and Law).
+
+<hr>
+
+<h1>Themes & Groups</h1>
+
+{% for theme in site.data.themes %}
+
+<span class="post-link">{{ theme.name }}</span>
+<i><span class="post-meta">/{{ theme.code }}</span></i>
+
+<p>{{ theme.description }}</p>
+
+Members:
+
+{% for member in site.data.people.members %}
+{% for cat in member.themes %}
+{%if cat == theme.code %}
+<div class="person">
+  <img src="{{ member.img }}">
+  {{ member.title }} {{ member.name }}
+</div>
+{% endif %}
+{% endfor %}
+
+{% endfor %}
+
+{% endfor %}
+
+<hr>

@@ -3,14 +3,17 @@ members:
       name: Troy Astarte
       link: https://www.swansea.ac.uk/staff/t.k.astarte/
       img: https://ik.imagekit.io/s1sp3stox/tr:h-556,w-556,fo-auto/compsci/research-and-impact/theoretical-computer-science/Astarte_Profile_CompSci.jpg
+      themes: ["semantics"]
     - title: Prof.
       name: Arnold Beckmann
       link: https://www.swansea.ac.uk/staff/a.beckmann/
       img: https://ik.imagekit.io/s1sp3stox/tr:h-556,w-556,fo-auto/compsci/research-and-impact/theoretical-computer-science/262x262_Arnold-Beckmann.jpg
+      themes: ["computability", "algorithms", "proof"]
     - title: Dr.
       name: Ulrich Berger
       link: https://www.swansea.ac.uk/staff/u.berger/
       img: https://ik.imagekit.io/s1sp3stox/tr:h-556,w-556,fo-auto/compsci/research-and-impact/theoretical-computer-science/Berger_Profile_CompSci.jpeg
+      themes: ["computability"]
     - title: Dr.
       name: Jens Blanck
       link: https://www.swansea.ac.uk/staff/j.e.blanck/

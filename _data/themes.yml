@@ -1,0 +1,10 @@
+- name: "Computability"
+  code: "computability"
+  description: |
+    The Computability Group in Swansea investigates the fundamental aspects of computation and their applications in computer science and mathematics.<br/><br/>
+
+    We are a leading group in computable analysis, which is concerned with the theory of computation with objects such as real numbers and continuous functions. We are exploring how computable existence theorems from mathematics, primarily using Weihrauch complexity as the framework.
+- name: "Algorithms and Complexity"
+  code: "algorithms"
+  description: |
+    The Algorithms and Complexity group investigates the interplay between formal logic and algorithmic design through the lens of computational complexity, bridging theoretical and applied perspectives. We analyse foundational questions about computational limits and verification frameworks, while exploring concrete applications such as solver algorithms for combinatorial puzzles (e.g., Sudokus) and automated theorem proving systems. Theoretical work focuses on deriving upper/lower bounds for problems and characterizing proof-system expressivity, while practical efforts develop efficient solvers and verification tools. By unifying mathematical rigor with software implementation, we advance understanding of how logical structures constrain or enable efficient computation, studying proofs both as theoretical objects (length, complexity) and practical artifacts (generation, validation). This dual focus connects abstract complexity theory with real-world problem-solving.
