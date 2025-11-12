@@ -14,15 +14,5 @@ The decidability of these problems is almost exclusively studied under the assum
   
 When working with systems that involve real data, say, coming from scientific or engineering applications, the assumption that the system be known to infinite precision is arguably unrealistic. One should rather assume that the system is known only up to finite precision. In that case, the natural question becomes whether the system's behaviour -- escaping or not escaping -- is robust under all sufficiently small perturbations. On the one hand, this requires us in some sense to do more than to decide the problem for a single given point at a time. On the other hand, there appears to be little value in determining the status of problem instances that lie on a "decision boundary", i.e. instances that are not robust under small perturbation. The latter point is interesting in light of the aforementioned undecidability results in the discrete-data setting, which appear to rely on the existence of very difficult non-robust instances.  
   
-The aim of this talk is to demonstrate by means of a case study that computable analysis constitutes an excellent framework for the discussion of robust decidability questions, such as the above.
-
-I will study to escape problems for very general non-linear systems and show at least in one case that the problem becomes as close to decidable as one can hope it to be in this setting.
-
-The Point Escape Problem is to decide for a given continuous map f, a given closed set A, and a given point x in A whether x escapes A under iteration of f.
-
-The Set Escape Problem is to decide for a given continuous map f and a given compact set K whether all points of K escape K under iteration of f.
-
-I will give a complete algorithm for the Point Escape Problem and a potentially not complete algorithm for the Set Escape Problem. 
-
-I will show that both algorithms terminate generically, and discuss some concrete examples of termination problems.
+The aim of this talk is to demonstrate by means of a case study that computable analysis constitutes an excellent framework for the discussion of robust decidability questions, such as the above. I will study to escape problems for very general non-linear systems and show at least in one case that the problem becomes as close to decidable as one can hope it to be in this setting. The Point Escape Problem is to decide for a given continuous map f, a given closed set A, and a given point x in A whether x escapes A under iteration of f. The Set Escape Problem is to decide for a given continuous map f and a given compact set K whether all points of K escape K under iteration of f. I will give a complete algorithm for the Point Escape Problem and a potentially not complete algorithm for the Set Escape Problem. I will show that both algorithms terminate generically, and discuss some concrete examples of termination problems.
 

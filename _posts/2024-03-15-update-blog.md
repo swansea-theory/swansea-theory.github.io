@@ -1,34 +1,27 @@
 ---
 layout: post
-title: "CCA 2024: Call for Submissions"
+title: "Agda Implementors' Meeting Coming to Swansea"
 date: 2024-03-15
 ---
 
-Twenty-First International Conference on
+<img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuIpnBXBh0c32C911B13MZfE-yQTz2gs2jHk2R1ZAs104MwyPDbRfOl02Vi6HxxTXBMgyIcDD0Sk9rd_X8hDf324ZUh77pt1HRgeZjeNotHgrFAoD3kz5pQQ0jBPDnkPAvjusNDlxOdCllSs9YkzpFeDGHsbH460ogJea103mprxCaaN936R2A_4ybxKVk/w400-h400/Implementors%E2%80%99%20Meeting.png' alt='' title='' width='400' height='400' />The thirty-eighth Agda Implementors' Meeting will take place in Swansea, Wales, UK from Monday 13 to Saturday 18 May 2024.
 
-Computability and Complexity in Analysis (CCA 2024) will take place on
+Wiki link for more details: <https://wiki.portal.chalmers.se/agda/Main/AIMXXXVIII>
 
-July 15-18, 2024 here in Swansea.
+The meeting aims to bring together people not only developing but also using Agda or even those who are simply interested in it. We will have talks on the implementation details of Agda in the morning and code sprints in the afternoon. You can still submit your proposal for a talk or discussion!
 
-Topics:
+  
 
-- Computable analysis
-- Complexity on real numbers
-- Computable numbers, subsets and functions
-- Theory of representations
-- Computable differential equations
-- Randomness and computable measure theory
-- Algorithmic fractal dimension
-- Effective descriptive set theory
-- Weihrauch complexity
-- Reverse analysis
-- Constructive analysis
-- Domain theory and analysis
-- Realizability theory and analysis
-- Models of computability on real numbers
-- Real number algorithms
-- Exact real number arithmetic
-Submission deadline: April 29, 2024. For more information, click below:
+There's a (soft) deadline for registration on 14 April 2024.
 
-![](http://cca-net.de/cca2024/)
+  
+
+Registration instructions: <https://wiki.portal.chalmers.se/agda/Main/AIMXXXVIII#Registration>
+
+  
+
+  
+
+
+  
 
