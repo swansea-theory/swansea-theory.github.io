@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# About
-
 The [Swansea Theory
 Group](https://www.swansea.ac.uk/compsci/research-and-impact/theoretical-computer-science/)
 is internationally renowned for its research in Logic in Computer
