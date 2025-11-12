@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Oliver Kullmann's talk"
-date: 2025-01-13
+date: 2024-12-10
 ---
 
 Today Oliver Kullmann will give a talk on Automated search for special Latin squares as a part of our Seminar series.

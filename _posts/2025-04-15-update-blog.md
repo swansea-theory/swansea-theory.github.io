@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "We are at the 41st British Colloquium for Theoretical Computer Science at Strathclyde University (Glasgow)"
-date: 2025-04-14
+date: 2025-04-15
 ---
 
 

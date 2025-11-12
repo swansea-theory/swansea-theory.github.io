@@ -10,9 +10,7 @@ Designing logical frameworks to reason about the properties of concurrent progra
 The main difficulties can be traced back to the syntactic constraints of the languages used for this purpose.
 
 In this talk, I will present my ongoing line of research, which aims to provide a new computation-as-deduction paradigm for the study of concurrent programs.  
-In particular, I will show you a
-
-non-commutative logic where we can interpret proofs as computation trees for the pi-calculus, and use proof nets to provide canonical representations of these trees modulo interleaving concurrency.  
+In particular, I will show you a non-commutative logic where we can interpret proofs as computation trees for the pi-calculus, and use proof nets to provide canonical representations of these trees modulo interleaving concurrency.  
   
 This work is based on joint works with Giulia Manara and Fabrizio Montesi
 

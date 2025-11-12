@@ -1,17 +1,16 @@
 ---
 layout: post
-title: "GoSCAI 2024"
+title: "CCA 2024"
 date: 2024-07-12
 ---
 
-Arnold, Monika, Bertie and Jay went to Grenoble 1-4 July to attend the
-
-[GoSCAI workshop](https://miai.univ-grenoble-alpes.fr/events/workshop-grenoble-swansea-on-ai-1453893.kjsp) and discussion of research opportunities with Grenoble.
+CCA is coming to Swansea next week and we are very excited! More details and the programme are available at <http://cca-net.de/cca2024/>.
 
   
 
-![](/assets/images/Grenoble_Campus_2016.jpg)
+![](/assets/images/_CCA.png)
 
+  
   
   
 

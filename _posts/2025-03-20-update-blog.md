@@ -1,14 +1,10 @@
 ---
 layout: post
 title: "Giorgio Genovesi on Characterizing Regular Countable Second Countable Spaces in Second Order Arithmetic"
-date: 2025-03-13
+date: 2025-03-20
 ---
 
-Today's seminar talk is by
-
-Giorgio Genovesi from Leeds, who will
-
-be talking about countable second countable topological spaces in the context of reverse mathematics.
+Today's seminar talk is by Giorgio Genovesi from Leeds, who will be talking about countable second countable topological spaces in the context of reverse mathematics.
 
   
 **Title:** Characterizing Regular Countable Second Countable Spaces in Second Order Arithmetic

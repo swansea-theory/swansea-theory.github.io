@@ -7,7 +7,7 @@ node = lambda x: "{http://www.w3.org/2005/Atom}"+x
 bnode = lambda x: "{http://schemas.google.com/blogger/2018}"+x
 title = lambda x: x.find(node("title")).text
 content = lambda x: x.find(node("content")).text
-date = lambda x: x.find(bnode("created")).text
+date = lambda x: x.find(node("published")).text
 
 t="""[<img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirhyAcq2gRzrU7dgvC97hp7tgEL63oXJ8g0LLdn9nGAZRlx0wnqVx9Ozkytx73-SGMgGZKSV0u0BJMi461pebdrRZxWWPd5k1s1uq5zeExjcIGF6RVFZI7fReiQb4HO1JUfCN6xNA9ma0vtyc8Deenp_BnHcrsLz4lDbQux7lt8zGpngKFGcVfSb5-Vf40/w320-h240/CCC.jpeg' alt='Photo by Troy Astarte' title='Photo by Troy Astarte' width='320' height='240' />](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirhyAcq2gRzrU7dgvC97hp7tgEL63oXJ8g0LLdn9nGAZRlx0wnqVx9Ozkytx73-SGMgGZKSV0u0BJMi461pebdrRZxWWPd5k1s1uq5zeExjcIGF6RVFZI7fReiQb4HO1JUfCN6xNA9ma0vtyc8Deenp_BnHcrsLz4lDbQux7lt8zGpngKFGcVfSb5-Vf40/s1280/CCC.jpeg)
 
@@ -26,6 +26,7 @@ def replace_images(content: str) -> str:
             url = re.findall("\\(.*?\\)$", line)[0][1:-1]
             filename = f"../assets/images/{url.split('/')[-1]}"
             try:
+                filename = filename.replace("%20", "-")
                 with open(filename, "wb") as f:
                     f.write(requests.get(url).content)
                 filename = filename.replace("..", "")
@@ -40,7 +41,8 @@ def replace_images(content: str) -> str:
 
 def clean_content(content: str) -> str:
     content = re.sub("<p.*?>", "", content)
-    content = re.sub("&nbsp;", "\n\n", content)
+    #content = re.sub("&nbsp;", "\n\n", content)
+    content = re.sub("&nbsp;", " ", content)
     content = content.replace("</p>", "\n\n")
     content = replace_images(content)
     return content

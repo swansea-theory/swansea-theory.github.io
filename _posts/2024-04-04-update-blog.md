@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Swansea Theory Group attends the 40th British Colloquium for Theoretical Computer Science"
-date: 2024-03-28
+date: 2024-04-04
 ---
 
   
@@ -10,20 +10,14 @@ Monika, Faron, Olga, Filippos, Iain and James are attending the 40th British Col
 
   
 
-Monika has been invited to give a talk on Logic in Railway Verification. Among the other invited speakers are
-
-[Anupam Das](https://www.anupamdas.com/)(University of Birmingham),
-
-[Alex Kavvos](https://seis.bristol.ac.uk/~tz20861/)(University of Bristol), and
-
-Stuart Matthews (Capgemini Engineering).
+Monika has been invited to give a talk on Logic in Railway Verification. Among the other invited speakers are [Anupam Das](https://www.anupamdas.com/) (University of Birmingham), [Alex Kavvos](https://seis.bristol.ac.uk/~tz20861/) (University of Bristol), and Stuart Matthews (Capgemini Engineering).
 
   
 
   
 
 
-![](/assets/images/BCTCS%202024.jpg)
+![](/assets/images/BCTCS-2024.jpg)
 
   
 

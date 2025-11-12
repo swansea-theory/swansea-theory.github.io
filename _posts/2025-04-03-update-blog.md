@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On Threshold Problems for Orbits of Semigroup Actions by Eike"
-date: 2025-04-02
+date: 2025-04-03
 ---
 
 Today Eike Neumann will give a talk on Threshold Problems for Orbits of Semigroup Actions as a part of our theory seminar series.

@@ -4,9 +4,7 @@ title: "Davide Trotta's talk"
 date: 2025-05-06
 ---
 
-This Thursday
-
-[Davide Trotta](https://trottadavide.github.io/) from the University of Padova will give a talk on "A topos for extended Weihrauch degrees" as a part of our seminar series.**Abstract:**Weihrauch reducibility [2] is a key notion of reducibility between computational problems that is useful to calibrate the uniform computational strength of a multi-valued function. Such reducibility provides a framework where one can formalize questions such as “which theorems can be transformed continuously or computably into another?”
+This Thursday [Davide Trotta](https://trottadavide.github.io/) from the University of Padova will give a talk on "A topos for extended Weihrauch degrees" as a part of our seminar series.**Abstract:** Weihrauch reducibility [2] is a key notion of reducibility between computational problems that is useful to calibrate the uniform computational strength of a multi-valued function. Such reducibility provides a framework where one can formalize questions such as “which theorems can be transformed continuously or computably into another?”
 
 The main purpose of this talk is to provide a full categorical account of a generalization of such a notion introduced by A. Bauer called extended Weihrauch reducibility [1]. In particular, we present a tripos [3] and a topos for extended Weihrauch degrees. Then we employ the free constructions and tools developed in [4] to provide a formal connection with realizability, showing that the effective topos is a topos of j-sheaves for a certain Lawvere-Tierney topology over the topos of extended Weihrauch degrees.
 
