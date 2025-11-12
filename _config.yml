@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Swansea University Theoretical Computer Science
-email: j.p.morgan@swansea.ac.uk
+title: Theoretical Computer Science Swansea University
+email: cs-theory@swansea.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Swansea University Theoretical Computer Science Research Group is internationally renowned for its research in Logic in Computer Science. The active research areas are: Computability Theory, Computational Complexity, Proof Theory, Type Theory, Game Theory, Algorithms, Formal Methods (Automated and Interactive Theorem Proving), Cyber Security, Blockchain Technology, Verification of Railway Control Systems, Artificial Intelligence (Satisfiability Solving, Multi-agent Systems, Argumentation Theory, Trustable Machine Learning, AI and Law).
 baseurl: "" # the subpath of your site, e.g. /blog
