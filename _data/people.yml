@@ -13,82 +13,96 @@ members:
       name: Ulrich Berger
       link: https://www.swansea.ac.uk/staff/u.berger/
       img: https://ik.imagekit.io/s1sp3stox/tr:h-556,w-556,fo-auto/compsci/research-and-impact/theoretical-computer-science/Berger_Profile_CompSci.jpeg
-      themes: ["computability"]
+      themes: ["computability", "semantics", "proof"]
     - title: Dr.
       name: Jens Blanck
       link: https://www.swansea.ac.uk/staff/j.e.blanck/
       img: https://ik.imagekit.io/s1sp3stox/tr:h-556,w-556,fo-auto/compsci/research-and-impact/theoretical-computer-science/Blanck_Profile_CompSci.jpeg
+      themes: ["computability"]
     - title: Dr.
       name: Bertie Müller
       link: https://www.swansea.ac.uk/staff/berndt.muller/
       img: https://ik.imagekit.io/s1sp3stox/tr:h-556,w-556,fo-auto/compsci/research-and-impact/theoretical-computer-science/262x262_Bertie-Muller.jpg
+      themes: ["trustworthy"]
     - title: Dr.
       name: Oliver Kullmann
       link: https://www.swansea.ac.uk/staff/o.kullmann/
       img: https://ik.imagekit.io/s1sp3stox/tr:h-556,w-556,fo-auto/compsci/research-and-impact/theoretical-computer-science/Kullmann_Oliver_Profile_CS.jpg
+      themes: ["algorithms"]
     - title: Prof.
       name: Faron Moller
       link: https://www.swansea.ac.uk/staff/f.g.moller/
       img: https://ik.imagekit.io/s1sp3stox/tr:h-556,w-556,fo-auto/compsci/research-and-impact/theoretical-computer-science/Moller_Faron_Profile_CS.jpg
+      themes: ["algorithms"]
     - title: Dr.
       name: Jay Paul Morgan
       link: https://www.swansea.ac.uk/staff/j.p.morgan/
       img: https://ik.imagekit.io/s1sp3stox/tr:h-556,w-556,fo-auto/compsci/research-and-impact/theoretical-computer-science/262x262_Morgan_Jay_Profile_Comp-Sci.jpg
+      themes: ["trustworthy"]
     - title: Dr.
       name: Eike Neumann
       link: https://www.swansea.ac.uk/staff/science-and-engineering/school-of-mathematics-and-computer-science-staff/compsci/neumann-e-f/
       img: https://ik.imagekit.io/s1sp3stox/tr:h-556,w-556,fo-auto/compsci/research-and-impact/theoretical-computer-science/Neumann_profile-CS.jpg
-    - title: Dr.
-      name: Hoang Nguyen
-      link: https://www.swansea.ac.uk/staff/h.n.nguyen/
-      img: https://ik.imagekit.io/s1sp3stox/tr:h-556,w-556,fo-auto/compsci/research-and-impact/theoretical-computer-science/Nguyen_Hoang_Profile_CS.jpg
+      themes: ["computability"]
     - title: Dr.
       name: Liam O'Reilly
       link: https://www.swansea.ac.uk/staff/l.p.oreilly/
       img: https://ik.imagekit.io/s1sp3stox/tr:h-556,w-556,fo-auto/compsci/research-and-impact/theoretical-computer-science/O%27Reilly_Profile_CompSci.jpeg
+      themes: ["semantics"]
     - title: Dr.
       name: Filippos Pantekis
       link: https://www.swansea.ac.uk/staff/filippos-pantekis/
       img: https://ik.imagekit.io/s1sp3stox/tr:h-556,w-556,fo-auto/compsci/research-and-impact/theoretical-computer-science/Pantekis_Filippos_Profile_CS.jpg
+      themes: ["algorithms"]
     - title: Dr.
       name: Arno Pauly
       link: https://www.swansea.ac.uk/staff/a.m.pauly/
       img: https://ik.imagekit.io/s1sp3stox/tr:h-556,w-556,fo-auto/compsci/research-and-impact/theoretical-computer-science/Pauly_Profile_CompSci.jpeg
+      themes: ["computability"]
     - title: Dr.
       name: Olga Petrovska
       link: https://www.swansea.ac.uk/staff/o.petrovska/
       img: https://ik.imagekit.io/s1sp3stox/tr:h-556,w-556,fo-auto/compsci/research-and-impact/theoretical-computer-science/Petrovska_Profile_CompSci.jpg
+      themes: ["proof"]
     - title: Dr.
       name: Cécilia Pradic
       link: https://www.swansea.ac.uk/staff/c.pradic/
       img: https://ik.imagekit.io/s1sp3stox/tr:h-556,w-556,fo-auto/compsci/research-and-impact/theoretical-computer-science/Pradic_Cecilia_Profile_CS.jpg
+      themes: ["computability", "proof"]
     - title: Prof.
       name: Markus Roggenbach
       link: https://www.swansea.ac.uk/staff/m.roggenbach/
       img: https://ik.imagekit.io/s1sp3stox/tr:h-556,w-556,fo-auto/compsci/research-and-impact/theoretical-computer-science/Roggenbach_Profile_CS.jpg
+      themes: ["semnatics", "proof"]
     - title: Dr.
       name: Monika Seisenberger
       link: https://www.swansea.ac.uk/staff/m.seisenberger/
       img: https://ik.imagekit.io/s1sp3stox/tr:h-556,w-556,fo-auto/compsci/research-and-impact/theoretical-computer-science/262x262_Monika-Seisenberger.jpg
+      themes: ["semantics", "proof", "trustworthy"]
     - title: Dr.
       name: Anton Setzer
       link: https://www.swansea.ac.uk/staff/a.g.setzer/
       img: https://ik.imagekit.io/s1sp3stox/tr:h-556,w-556,fo-auto/compsci/research-and-impact/theoretical-computer-science/Setzert_Profile_CS.jpg
+      themes: ["proof"]
     - title: Dr.
       name: Mukesh Tiwari
       link: https://www.swansea.ac.uk/staff/mukesh.tiwari/
       img: https://ik.imagekit.io/s1sp3stox/tr:h-556,w-556,fo-auto/compsci/research-and-impact/theoretical-computer-science/Tiwari_Mukesh_Profile_Comp-Sci.jpg
+      themes: ["semantics", "proof"]
     - title: Prof.
       name: John Tucker
       link: https://www.swansea.ac.uk/staff/j.v.tucker/
       img: https://ik.imagekit.io/s1sp3stox/tr:h-556,w-556,fo-auto/compsci/research-and-impact/theoretical-computer-science/Tucker_Profile_CS.jpg
+      themes: ["semantics"]
     - title: Dr.
       name: Manlio Valenti
       link: https://www.swansea.ac.uk/staff/manlio.valenti/
       img: https://ik.imagekit.io/s1sp3stox/tr:h-556,w-556,fo-auto/compsci/research-and-impact/theoretical-computer-science/Valenti_Manlio_Profile_CS.jpg
+      themes: ["computability"]
     - title: Dr.
       name: Adam Wyner
       link: https://www.swansea.ac.uk/staff/a.z.wyner/
       img: https://ik.imagekit.io/s1sp3stox/tr:h-556,w-556,fo-auto/compsci/research-and-impact/theoretical-computer-science/adam-wyner_2.jpg
+      themes: ["trustworthy"]
       
     

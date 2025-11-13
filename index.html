@@ -7,12 +7,29 @@ permalink: /
 ---
 
 <style type="text/css">
+  .people {
+      display: flex;
+      flex-wrap: wrap;
+  }
   .person {
       width: 100px;
+      margin-right: 20px;
   }
 
   .person.img {
       width: 100%
+  }
+
+  hr.divider {
+      margin-top: 40px;
+      margin-bottom: 40px;
+      border: 1px solid #dfdfdf;
+      width: 70%;
+      margin-left: 15%;
+  }
+
+  .post-link {
+      margin-top: 20px;
   }
 </style>
 
@@ -26,7 +43,7 @@ Railway Control Systems, Artificial Intelligence (Satisfiability
 Solving, Multi-agent Systems, Argumentation Theory, Trustable Machine
 Learning, AI and Law).
 
-<hr>
+<hr class="divider">
 
 <h1>Themes & Groups</h1>
 
@@ -39,6 +56,7 @@ Learning, AI and Law).
 
 Members:
 
+<div class="people">
 {% for member in site.data.people.members %}
 {% for cat in member.themes %}
 {%if cat == theme.code %}
@@ -48,9 +66,9 @@ Members:
 </div>
 {% endif %}
 {% endfor %}
+{% endfor %}
+</div>
 
 {% endfor %}
 
-{% endfor %}
-
-<hr>
+<hr class="divider">
