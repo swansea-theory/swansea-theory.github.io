@@ -32,7 +32,7 @@ sass:
   silence_deprecations: [import]
 
 
-paginate: 5
+# paginate: 5
 # paginate_path: "/blog/page:num/"
 
 # Build settings
