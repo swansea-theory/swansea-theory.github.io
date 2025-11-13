@@ -40,7 +40,7 @@ permalink: /people/
 
 {% for person in site.data.people.members %}
 
-<a href="person.link">
+<a href="{{ person.link }}">
 <div class="person">
   <img src="{{ person.img }}"/>
   <h3>{{ person.title }} {{ person.name }}</h3>
