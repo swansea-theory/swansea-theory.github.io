@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dagstuhl meeting "Weihrauch Complexity: Structuring the Realm of Non-Computability""
+title: "Dagstuhl meeting Weihrauch Complexity: Structuring the Realm of Non-Computability"
 date: 2024-02-02
 ---
 
