@@ -2,6 +2,8 @@
 layout: post
 title: "Emmanuel Rauzy: Residual properties of groups in the continuous Weihrauch lattice"
 date: 2025-11-13
+seminar: true
+feature: https://www.lacl.fr/emmanuel.rauzy/photo.JPG
 ---
 
 In this weeks Theory Seminar, [Emmanuel](https://www.lacl.fr/emmanuel.rauzy/), from the Université de

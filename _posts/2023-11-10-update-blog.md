@@ -2,6 +2,7 @@
 layout: post
 title: "Giovanni Solda visiting Swansea"
 date: 2023-11-10
+seminar: true
 ---
 
 Next week [Giovanni Solda](https://research.ugent.be/web/person/giovanni-solda-0/publications/en) is visiting us from Ghent. He will give a talk on "A combinatorial principle weak over weak systems yet strong over strong systems".

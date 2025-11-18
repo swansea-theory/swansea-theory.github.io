@@ -2,6 +2,8 @@
 layout: post
 title: "Mukesh on Formally Verified Verifiable Group Generators "
 date: 2025-06-10
+seminar: true
+feature: https://ik.imagekit.io/s1sp3stox/tr:h-200,w-200,fo-none/staff/mukesh.tiwari/Tiwari_Mukesh_Profile_Comp-Sci.jpg
 ---
 
 Mukesh will give a talk on Formally Verified Verifiable Group Generators as a part of our seminar series this Thursday.

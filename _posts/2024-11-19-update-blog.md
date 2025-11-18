@@ -2,6 +2,7 @@
 layout: post
 title: "Galileo Sartor's talk"
 date: 2024-11-19
+seminar: true
 ---
 
 Today's theory seminar talk will be by Galileo Sartor on "Representing and reasoning with legal aspects of traffic rules for autonomous vehicles".

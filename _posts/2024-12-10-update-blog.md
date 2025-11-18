@@ -2,6 +2,8 @@
 layout: post
 title: "Oliver Kullmann's talk"
 date: 2024-12-10
+seminar: true
+feature: https://intranet.swan.ac.uk/staffphoto/photoapi/staff-profile/o.kullmann/
 ---
 
 Today Oliver Kullmann will give a talk on Automated search for special Latin squares as a part of our Seminar series.

@@ -2,6 +2,7 @@
 layout: post
 title: "Research visit"
 date: 2024-09-12
+seminar: true
 ---
 
 [Thomas Powell](https://t-powell.github.io/) and [Davide Barbarossa](https://researchportal.bath.ac.uk/en/persons/davide-barbarossa) (Bath University) are visiting Swansea this week. This afternoon Thomas will give a talk on the "Rates of convergence for stochastic processes" as a part of our seminar series.

@@ -2,6 +2,8 @@
 layout: post
 title: "Máté Szabó's talk"
 date: 2024-04-18
+seminar: true
+feature: https://www.hsmt.ox.ac.uk/sites/default/files/styles/person_profile_photo/public/hsmt/images/person/szabo-mate.jpg?itok=Ls9mC-mv
 ---
 
 [Máté Szabó](https://www.hsmt.ox.ac.uk/people/dr-mate-szabo) is visiting Swansea. He will give a talk today as a part of our theory seminar series:

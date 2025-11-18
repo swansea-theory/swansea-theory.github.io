@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Weihrauch problems as containers"
+title: "Ian Price: Weihrauch problems as containers"
 date: 2025-05-01
+seminar: true
 ---
 
 Today Ian Price will give a talk on "Weihrauch problems as containers" as a part of our seminar series. Abstract:

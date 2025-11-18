@@ -2,6 +2,8 @@
 layout: post
 title: "Elvira Mayordomo visiting Swansea"
 date: 2025-01-14
+seminar: true
+feature: https://www.cs.iastate.edu/files/styles/profile_picture/public/people/profilepictures/mayordomo.jpg?itok=nK-CHkJ2
 ---
 
 [Elvira Mayordomo](https://www.cs.iastate.edu/people/elvira-mayordomo) is visiting us this week. Today she gave a talk as a part of our seminar series.

@@ -2,6 +2,8 @@
 layout: post
 title: "Theory Seminar Series"
 date: 2024-10-21
+seminar: true
+feature: https://ik.imagekit.io/s1sp3stox/tr:h-200,w-200,fo-none/staff/science-and-engineering/school-of-mathematics-and-computer-science-staff/compsci/neumann-e-f/Neumann_Profile_CS.jpg
 ---
 
 The theory seminar tomorrow will be given by Eike on "Robust Decidability of Escape Problems for General Non-Linear Systems."  

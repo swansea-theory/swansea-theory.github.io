@@ -2,6 +2,8 @@
 layout: post
 title: "Manlio Valenti on the computational strength of a Hausdorff oracle"
 date: 2025-06-02
+seminar: true
+feature: https://ik.imagekit.io/s1sp3stox/tr:h-200,w-200,fo-none/staff/manlio.valenti/Valenti_Manlio_Profile_CS.jpg
 ---
 
 This Thursday Manlio will give a talk "On the computational strength of a Hausdorff oracle" as a part of our seminar series.

@@ -2,6 +2,8 @@
 layout: post
 title: "Hideki Tsuiki visiting Swansea"
 date: 2025-01-23
+seminar: true
+feature: /assets/images/pro-sgPnZdmh.jpeg
 ---
 
 ![Hideki Tsuiki in Swansea](/assets/images/pro-sgPnZdmh.jpeg)

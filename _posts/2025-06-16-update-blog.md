@@ -2,6 +2,7 @@
 layout: post
 title: "Giovanni Solda on Statistical Learning of Graphs"
 date: 2025-06-16
+seminar: true
 ---
 
 This Thursday Giovanni Solda will give a talk on statistical learning of graphs as a part of our theory seminar series.

@@ -2,6 +2,8 @@
 layout: post
 title: "Talk on Assuring non-functional requirements"
 date: 2024-10-04
+seminar: true
+feature: https://images.gfx.no/1000x/1772/1772417/Magne%2520Haveraaen%25200911111811.jpg
 ---
 
 This summer & autumn, our department is hosting Prof [Magne Haveraaen](https://www4.uib.no/en/find-employees/Magne.Haveraaen) (University Bergen, Norway)  

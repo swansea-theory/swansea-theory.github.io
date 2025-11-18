@@ -2,6 +2,7 @@
 layout: post
 title: "Davide Trotta's talk"
 date: 2025-05-06
+seminar: true
 ---
 
 This Thursday [Davide Trotta](https://trottadavide.github.io/) from the University of Padova will give a talk on "A topos for extended Weihrauch degrees" as a part of our seminar series.**Abstract:** Weihrauch reducibility [2] is a key notion of reducibility between computational problems that is useful to calibrate the uniform computational strength of a multi-valued function. Such reducibility provides a framework where one can formalize questions such as “which theorems can be transformed continuously or computably into another?”

@@ -2,6 +2,7 @@
 layout: post
 title: "Matteo Acclavio visiting Swansea"
 date: 2024-11-28
+seminar: true
 ---
 
 Next week's theory seminar will be given by [Matteo Acclavio](https://profiles.sussex.ac.uk/p623544-matteo-acclavio) from the University of Sussex, who is visiting us for a few days. The topic will be a new logical framework for concurrent programs, abstract below.**Title:** A new logical framework for concurrent programs  
