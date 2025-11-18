@@ -78,7 +78,8 @@
   }
   
   .site-header {
-      background-image: url("{{ '/assets/images/banner.png' | relative_url }}");
+      background-image: url("{{ '/assets/images/banner.png' | relative_url }}"), linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+      background-blend-mode: overlay;
       background-size: 100%;
       background-repeat: no-repeat;
       min-height: 300px;
@@ -105,6 +106,7 @@
   .site-nav .page-link {
       color: white!important;
       text-decoration: underline;
+      font-weight: bold;
   }
 
   .site-nav .page-link:hover {
