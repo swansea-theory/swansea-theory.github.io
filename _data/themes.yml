@@ -3,7 +3,7 @@
   description: |
     The Computability Group in Swansea investigates the fundamental aspects of computation and their applications in computer science and mathematics.<br/><br/>
 
-    We are a leading group in computable analysis, which is concerned with the theory of computation with objects such as real numbers and continuous functions. We are exploring how computable existence theorems from mathematics, primarily using Weihrauch complexity as the framework.
+    We are a leading group in computable analysis, which is concerned with the theory of computation with objects such as real numbers and continuous functions. We are exploring how computable existence theorems from mathematics are, primarily using Weihrauch complexity as the framework.
 - name: "Algorithms and Complexity"
   code: "algorithms"
   description: |
