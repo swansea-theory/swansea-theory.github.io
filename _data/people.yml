@@ -83,7 +83,7 @@ members:
       name: Anton Setzer
       link: https://www.swansea.ac.uk/staff/a.g.setzer/
       img: https://ik.imagekit.io/s1sp3stox/tr:h-556,w-556,fo-auto/compsci/research-and-impact/theoretical-computer-science/Setzert_Profile_CS.jpg
-      themes: ["proof"]
+      themes: ["proof", "semantics"]
     - title: Dr.
       name: Mukesh Tiwari
       link: https://www.swansea.ac.uk/staff/mukesh.tiwari/
