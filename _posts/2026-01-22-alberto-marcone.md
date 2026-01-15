@@ -3,6 +3,7 @@ layout: post
 title: "Alberto Marcone: The reverse mathematics of dimension of posets"
 date: 2026-01-22
 seminar: true
+feature: https://csevents.swansea.ac.uk/files/2026/01/foto-e1768471734939.jpg
 ---
 
 Alberto Marcone will be visiting Swansea for a few days! He's arriving tomorrow evening and will stay here for the whole next week. So this is a perfect chance to kick-off the theory seminar for the second semester. Please find the title and abstract of his talk below. We will meet in the theory lab on Thursday 22 Jan, 4pm.
