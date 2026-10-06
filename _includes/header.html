@@ -141,12 +141,14 @@
 
 <header class="site-header">
 
+  {% if site.banner.description.size > 0 %}
   <div id="banner">
     <span class="banner-close" onclick="closeBanner()">x</span>
     <div id="banner-content">
       {{ site.banner.description }}
     </div>
   </div>
+  {% endif %}
 
   
 
